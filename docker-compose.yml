@@ -1,7 +1,7 @@
 version: '3'
 services:
   db:
-    image: postgres:9.4
+    image: postgres:12
     volumes:
       - ./db/postgresql_setup.sql:/docker-entrypoint-initdb.d/postgresql_setup.sql
       - ./tmp/db:/var/lib/postgresql/data
@@ -9,3 +9,22 @@ services:
       - "5434:5432"
     environment:
       - POSTGRES_PASSWORD=password
+  metabase-app:
+    image: metabase/metabase
+    restart: always
+    ports:
+      - 3111:3000
+    volumes:
+      # declare your mount volume /host/dir:/container/dir
+      - ./tmp/metabase:/metabase-data
+    environment:
+      MB_DB_TYPE: postgres
+      MB_DB_DBNAME: metabase
+      MB_DB_PORT: 5434
+      MB_DB_USER: metabase
+      MB_DB_PASS: password
+      MB_DB_HOST: localhost
+    depends_on:
+      - db
+    network_mode: "host"
+

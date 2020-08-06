@@ -1,0 +1,269 @@
+objet_social_parent_id,objet_social_id,objet_social_lib,objet_social_parent_lib
+009000,009005,"maisons de jeunes, foyers, clubs de jeunes",ACTION SOCIOCULTURELLE 
+009000,009007,"maisons de la culture, office municipal,centres culturels",ACTION SOCIOCULTURELLE 
+009000,009010,loisirs pour personnes en situation de handicap ,ACTION SOCIOCULTURELLE 
+009000,009015,"associations socio-éducatives, scoutisme",ACTION SOCIOCULTURELLE 
+009000,009020,"centres aérés, colonies de vacances",ACTION SOCIOCULTURELLE 
+009000,009025,mouvements éducatifs de jeunesse et d'éducation populaire ,ACTION SOCIOCULTURELLE 
+009000,009030,comités des fêtes ,ACTION SOCIOCULTURELLE 
+009000,009035,foyers ruraux ,ACTION SOCIOCULTURELLE 
+009000,009040,clubs troisième âge ,ACTION SOCIOCULTURELLE 
+009000,009045,"majorettes, twirlings, carnavals, défilés",ACTION SOCIOCULTURELLE 
+009000,009050,"jumelages, échanges culturels, organisation d'échanges linguistiques, échanges culturels au plan international",ACTION SOCIOCULTURELLE 
+001000,001005,associations à caractère politique général ,ACTIVITÉS POLITIQUES 
+001000,001010,"soutien, financement de partis et de campagnes électorales",ACTIVITÉS POLITIQUES 
+001000,001015,action politique locale ,ACTIVITÉS POLITIQUES 
+001000,001020,action politique globale ,ACTIVITÉS POLITIQUES 
+001000,001025,activités citoyennes européennes ,ACTIVITÉS POLITIQUES 
+030000,030005,"comité, défense d'un emploi","AIDE À L'EMPLOI, DÉVELOPPEMENT LOCAL, PROMOTION DE SOLIDARITÉS ÉCONOMIQUES, VIE LOCALE"
+030000,030010,"entreprises d'insertion, associations intermédiaires, régies de quartier","AIDE À L'EMPLOI, DÉVELOPPEMENT LOCAL, PROMOTION DE SOLIDARITÉS ÉCONOMIQUES, VIE LOCALE"
+030000,030012,"comités de défense et d'animation de quartier, association locale ou municipale","AIDE À L'EMPLOI, DÉVELOPPEMENT LOCAL, PROMOTION DE SOLIDARITÉS ÉCONOMIQUES, VIE LOCALE"
+030000,030015,groupement d'employeurs ,"AIDE À L'EMPLOI, DÉVELOPPEMENT LOCAL, PROMOTION DE SOLIDARITÉS ÉCONOMIQUES, VIE LOCALE"
+030000,030020,aide à la création d'activités économiques individuelles ,"AIDE À L'EMPLOI, DÉVELOPPEMENT LOCAL, PROMOTION DE SOLIDARITÉS ÉCONOMIQUES, VIE LOCALE"
+030000,030050,promotion d'initiatives de développement durable ,"AIDE À L'EMPLOI, DÉVELOPPEMENT LOCAL, PROMOTION DE SOLIDARITÉS ÉCONOMIQUES, VIE LOCALE"
+014000,014025,organisation de professions (hors caractère syndical)  ,"AMICALES, GROUPEMENTS AFFINITAIRES, GROUPEMENTS D'ENTRAIDE (HORS DÉFENSE DE DROITS FONDAMENTAUX)"
+014000,014030,association du personnel d'une entreprise (hors caractère syndical) ,"AMICALES, GROUPEMENTS AFFINITAIRES, GROUPEMENTS D'ENTRAIDE (HORS DÉFENSE DE DROITS FONDAMENTAUX)"
+014000,014035,groupements d'entraide et de solidarité ,"AMICALES, GROUPEMENTS AFFINITAIRES, GROUPEMENTS D'ENTRAIDE (HORS DÉFENSE DE DROITS FONDAMENTAUX)"
+014000,014040,"amicale de personnes originaires d'un même pays (hors défense des droits des étrangers), d'une même région du monde","AMICALES, GROUPEMENTS AFFINITAIRES, GROUPEMENTS D'ENTRAIDE (HORS DÉFENSE DE DROITS FONDAMENTAUX)"
+014000,014045,amicale de personnes originaires d'une même région ,"AMICALES, GROUPEMENTS AFFINITAIRES, GROUPEMENTS D'ENTRAIDE (HORS DÉFENSE DE DROITS FONDAMENTAUX)"
+014000,014050,associations féminines pour l'entraide et la solidarité (hors défense de droits fondamentaux) ,"AMICALES, GROUPEMENTS AFFINITAIRES, GROUPEMENTS D'ENTRAIDE (HORS DÉFENSE DE DROITS FONDAMENTAUX)"
+014000,014060,associations de personnes homosexuelles pour l'entraide et la solidarité (hors défense de droits fondamentaux) ,"AMICALES, GROUPEMENTS AFFINITAIRES, GROUPEMENTS D'ENTRAIDE (HORS DÉFENSE DE DROITS FONDAMENTAUX)"
+014000,014070,associations de personnes en situation de handicap pour l'entraide et la solidarité (hors défense de droits fondamentaux) ,"AMICALES, GROUPEMENTS AFFINITAIRES, GROUPEMENTS D'ENTRAIDE (HORS DÉFENSE DE DROITS FONDAMENTAUX)"
+014000,014080,associations de classe d.âge ,"AMICALES, GROUPEMENTS AFFINITAIRES, GROUPEMENTS D'ENTRAIDE (HORS DÉFENSE DE DROITS FONDAMENTAUX)"
+038000,038105,anciens combattants ,"ARMÉE (DONT  PRÉPARATION MILITAIRE, MÉDAILLES), ANCIENS COMBATTANTS"
+038000,038110,"associations de militaires, amicales, associations de conscrits","ARMÉE (DONT  PRÉPARATION MILITAIRE, MÉDAILLES), ANCIENS COMBATTANTS"
+020000,020005,secours financiers et autres services aux personnes en difficulté ,"ASSOCIATIONS CARITATIVES, HUMANITAIRES, AIDE AU DÉVELOPPEMENT, DÉVELOPPEMENT DU BÉNÉVOLAT"
+020000,020010,"secours en nature, distribution de nourriture et de vêtements","ASSOCIATIONS CARITATIVES, HUMANITAIRES, AIDE AU DÉVELOPPEMENT, DÉVELOPPEMENT DU BÉNÉVOLAT"
+020000,020015,associations caritatives à but multiple ,"ASSOCIATIONS CARITATIVES, HUMANITAIRES, AIDE AU DÉVELOPPEMENT, DÉVELOPPEMENT DU BÉNÉVOLAT"
+020000,020020,associations caritatives intervenant au plan international ,"ASSOCIATIONS CARITATIVES, HUMANITAIRES, AIDE AU DÉVELOPPEMENT, DÉVELOPPEMENT DU BÉNÉVOLAT"
+020000,020025,développement du bénévolat ,"ASSOCIATIONS CARITATIVES, HUMANITAIRES, AIDE AU DÉVELOPPEMENT, DÉVELOPPEMENT DU BÉNÉVOLAT"
+013000,013005,chasse   ,CHASSE PÊCHE 
+013000,013010,pêche ,CHASSE PÊCHE 
+002000,002005,associations philanthropiques ,"CLUBS, CERCLES DE RÉFLEXION"
+002000,002010,amicales laïques ,"CLUBS, CERCLES DE RÉFLEXION"
+002000,002015,clubs de réflexion ,"CLUBS, CERCLES DE RÉFLEXION"
+002000,002020,organisation de conférences ,"CLUBS, CERCLES DE RÉFLEXION"
+007000,007002,aéroclubs ,"CLUBS DE LOISIRS, RELATIONS"
+007000,007003,modélisme ,"CLUBS DE LOISIRS, RELATIONS"
+007000,007005,"bridge, jeux de cartes, échecs, dames, jeux de société .","CLUBS DE LOISIRS, RELATIONS"
+007000,007010,"billard, quilles","CLUBS DE LOISIRS, RELATIONS"
+007000,007025,"clubs de collectionneurs sauf collectionneurs de véhicules, modélisme, philatélie, numismatique","CLUBS DE LOISIRS, RELATIONS"
+007000,007030,"collectionneurs de véhicules, clubs amateurs de voitures anciennes","CLUBS DE LOISIRS, RELATIONS"
+007000,007035,"cercles privés, fan clubs","CLUBS DE LOISIRS, RELATIONS"
+007000,007040,activités festives (soirées.) ,"CLUBS DE LOISIRS, RELATIONS"
+007000,007045,"élevages canins, clubs de chiens de défense","CLUBS DE LOISIRS, RELATIONS"
+007000,007050,"animaux familiers, colombophilie, aquariophilie","CLUBS DE LOISIRS, RELATIONS"
+007000,007060,"gastronomie, œnologie, confréries, gourmets","CLUBS DE LOISIRS, RELATIONS"
+007000,007070,"jardinage, jardins ouvriers, floralies","CLUBS DE LOISIRS, RELATIONS"
+007000,007075,"échanges locaux, réseaux d'échanges","CLUBS DE LOISIRS, RELATIONS"
+007000,007080,"centres de loisirs, clubs de loisirs multiples","CLUBS DE LOISIRS, RELATIONS"
+007000,007085,"relaxation, sophrologie","CLUBS DE LOISIRS, RELATIONS"
+007000,007095,radioamateurs ,"CLUBS DE LOISIRS, RELATIONS"
+023000,022510,"cantines, restaurants d'entreprises","REPRÉSENTATION, PROMOTION ET DÉFENSE D'INTÉRÊTS ÉCONOMIQUES"
+023000,022515,"centres de gestion, centres juridiques, audits","REPRÉSENTATION, PROMOTION ET DÉFENSE D'INTÉRÊTS ÉCONOMIQUES"
+023000,022520,"gestion financière, gestion immobilière","REPRÉSENTATION, PROMOTION ET DÉFENSE D'INTÉRÊTS ÉCONOMIQUES"
+023000,022525,études techniques ,"REPRÉSENTATION, PROMOTION ET DÉFENSE D'INTÉRÊTS ÉCONOMIQUES"
+023000,022530,"groupement d'achat, groupement d'entreprises","REPRÉSENTATION, PROMOTION ET DÉFENSE D'INTÉRÊTS ÉCONOMIQUES"
+023000,022535,"amicales de commerçants, organisation de foires","REPRÉSENTATION, PROMOTION ET DÉFENSE D'INTÉRÊTS ÉCONOMIQUES"
+023000,022540,"chambres de commerce, chambres économiques","REPRÉSENTATION, PROMOTION ET DÉFENSE D'INTÉRÊTS ÉCONOMIQUES"
+023000,022542,"association à but commercial, développement économique","REPRÉSENTATION, PROMOTION ET DÉFENSE D'INTÉRÊTS ÉCONOMIQUES"
+023000,022543,transports ,"REPRÉSENTATION, PROMOTION ET DÉFENSE D'INTÉRÊTS ÉCONOMIQUES"
+023000,022545,"caisses de retraite, de prévoyance, de pensions","REPRÉSENTATION, PROMOTION ET DÉFENSE D'INTÉRÊTS ÉCONOMIQUES"
+023000,022550,"caisses de congés payés, caisses de secours","REPRÉSENTATION, PROMOTION ET DÉFENSE D'INTÉRÊTS ÉCONOMIQUES"
+006000,006005,"bibliothèques, ludothèques, discothèques, vidéothèques","CULTURE, PRATIQUES D'ACTIVITÉS ARTISTIQUES, PRATIQUES CULTURELLES"
+006000,006010,"expression écrite, littérature, poésie","CULTURE, PRATIQUES D'ACTIVITÉS ARTISTIQUES, PRATIQUES CULTURELLES"
+006000,006020,"arts graphiques, bandes dessinées, peinture, sculpture, architecture","CULTURE, PRATIQUES D'ACTIVITÉS ARTISTIQUES, PRATIQUES CULTURELLES"
+006000,006025,"photographie, cinéma (dont ciné-clubs)","CULTURE, PRATIQUES D'ACTIVITÉS ARTISTIQUES, PRATIQUES CULTURELLES"
+006000,006030,"chant choral, musique","CULTURE, PRATIQUES D'ACTIVITÉS ARTISTIQUES, PRATIQUES CULTURELLES"
+006000,006040,danse ,"CULTURE, PRATIQUES D'ACTIVITÉS ARTISTIQUES, PRATIQUES CULTURELLES"
+006000,006045,folklore ,"CULTURE, PRATIQUES D'ACTIVITÉS ARTISTIQUES, PRATIQUES CULTURELLES"
+006000,006070,"théâtre, marionnettes, cirque, spectacles de variété","CULTURE, PRATIQUES D'ACTIVITÉS ARTISTIQUES, PRATIQUES CULTURELLES"
+006000,006090,"artisanat, travaux manuels, bricolage, expositions","CULTURE, PRATIQUES D'ACTIVITÉS ARTISTIQUES, PRATIQUES CULTURELLES"
+006000,006100,promotion de l'art et des artistes ,"CULTURE, PRATIQUES D'ACTIVITÉS ARTISTIQUES, PRATIQUES CULTURELLES"
+006000,006105,loisirs scientifiques et techniques ,"CULTURE, PRATIQUES D'ACTIVITÉS ARTISTIQUES, PRATIQUES CULTURELLES"
+006000,006110,"langues, dialectes, patois","CULTURE, PRATIQUES D'ACTIVITÉS ARTISTIQUES, PRATIQUES CULTURELLES"
+006000,006115,arts de la rue ,"CULTURE, PRATIQUES D'ACTIVITÉS ARTISTIQUES, PRATIQUES CULTURELLES"
+003000,003010,défense de la paix ,"DÉFENSE DE DROITS FONDAMENTAUX, ACTIVITÉS CIVIQUES"
+003000,003012,défense des droits des enfants ,"DÉFENSE DE DROITS FONDAMENTAUX, ACTIVITÉS CIVIQUES"
+003000,003015,défense des libertés publiques et des droits de l'Homme ,"DÉFENSE DE DROITS FONDAMENTAUX, ACTIVITÉS CIVIQUES"
+003000,003020,"défense des droits des femmes, condition féminine","DÉFENSE DE DROITS FONDAMENTAUX, ACTIVITÉS CIVIQUES"
+003000,003025,défense de droits de personnes homosexuelles ,"DÉFENSE DE DROITS FONDAMENTAUX, ACTIVITÉS CIVIQUES"
+003000,003030,défense des droits des  personnes en situation de handicap ,"DÉFENSE DE DROITS FONDAMENTAUX, ACTIVITÉS CIVIQUES"
+003000,003045,défense de droits de personnes rapatriées ,"DÉFENSE DE DROITS FONDAMENTAUX, ACTIVITÉS CIVIQUES"
+003000,003050,"défense de droits de personnes étrangères ou immigrées, de personnes réfugiées","DÉFENSE DE DROITS FONDAMENTAUX, ACTIVITÉS CIVIQUES"
+003000,003035,association pour la défense de droits de minorités ,"DÉFENSE DE DROITS FONDAMENTAUX, ACTIVITÉS CIVIQUES"
+003000,003040,lutte contre les discriminations ,"DÉFENSE DE DROITS FONDAMENTAUX, ACTIVITÉS CIVIQUES"
+003000,003060,"activités civiques, information civique","DÉFENSE DE DROITS FONDAMENTAUX, ACTIVITÉS CIVIQUES"
+015000,015005,parents d'élèves ,ÉDUCATION  FORMATION 
+015000,015010,"organisation de professions enseignantes, amicales de personnel",ÉDUCATION  FORMATION 
+015000,015025,"associations périscolaires, coopération scolaire, aide à l'enseignement",ÉDUCATION  FORMATION 
+015000,015030,"œuvres sociales en faveur des élèves, œuvres en faveur des pupilles de la nation",ÉDUCATION  FORMATION 
+015000,015035,organisme de gestion d'établissement d'enseignement général et technique ,ÉDUCATION  FORMATION 
+015000,015040,organisme de gestion d'établissement d'enseignement supérieur ,ÉDUCATION  FORMATION 
+015000,015045,"établissement de formation professionnelle, de formation continue",ÉDUCATION  FORMATION 
+015000,015050,centre d'enseignement et de formation ,ÉDUCATION  FORMATION 
+015000,015065,"associations d'étudiants, d'élèves",ÉDUCATION  FORMATION 
+015000,015070,"amicales, associations d'anciens étudiants, d'anciens élèves",ÉDUCATION  FORMATION 
+015000,015075,"amicales, associations du personnel d'établissements scolaires ou universitaires",ÉDUCATION  FORMATION 
+015000,015085,"organisation, financement de voyages d'études, d'échanges, pour scolaires ou universitaires",ÉDUCATION  FORMATION 
+015000,015087,études et formations linguistiques ,ÉDUCATION  FORMATION 
+015000,015090,"promotion de titres, de diplômes",ÉDUCATION  FORMATION 
+015000,015100,apprentissage ,ÉDUCATION  FORMATION 
+015000,015105,maisons familiales rurales ,ÉDUCATION  FORMATION 
+024000,024005,"pollutions, assainissement","ENVIRONNEMENT,  CADRE DE VIE"
+024000,024010,ressources naturelles ,"ENVIRONNEMENT,  CADRE DE VIE"
+024000,024015,espaces naturels ,"ENVIRONNEMENT,  CADRE DE VIE"
+024000,024020,protection de sites naturels ,"ENVIRONNEMENT,  CADRE DE VIE"
+024000,024025,préservation de la faune sauvage ,"ENVIRONNEMENT,  CADRE DE VIE"
+024000,024026,protection des animaux ,"ENVIRONNEMENT,  CADRE DE VIE"
+024000,024030,préservation de la flore sauvage ,"ENVIRONNEMENT,  CADRE DE VIE"
+024000,024035,"comités de défense, comités de sauvegarde","ENVIRONNEMENT,  CADRE DE VIE"
+024000,024040,mouvements écologiques  ,"ENVIRONNEMENT,  CADRE DE VIE"
+024000,024045,défense et amélioration du cadre de vie ,"ENVIRONNEMENT,  CADRE DE VIE"
+024000,024050,actions de sensibilisation et d'éducation à l'environnement et au développement durable ,"ENVIRONNEMENT,  CADRE DE VIE"
+005000,005005,"presse, édition",INFORMATION COMMUNICATION 
+005000,005010,radios privées ,INFORMATION COMMUNICATION 
+005000,005015,audiovisuel ,INFORMATION COMMUNICATION 
+005000,005020,réseaux internet ,INFORMATION COMMUNICATION 
+005000,005025,autres supports de communication ,INFORMATION COMMUNICATION 
+005000,005030,"auditeurs, consommateurs d'outils d'information et de communication",INFORMATION COMMUNICATION 
+005000,005035,professionnels de l'information et de communication ,INFORMATION COMMUNICATION 
+019000,019004,aide et conseils aux familles ,INTERVENTIONS SOCIALES 
+019000,019005,"associations familiales, services sociaux pour les familles",INTERVENTIONS SOCIALES 
+019000,019010,"centres sociaux, foyers de jeunes travailleurs, centres d'études et d'action sociale",INTERVENTIONS SOCIALES 
+019000,019012,lutte contre le surendettement ,INTERVENTIONS SOCIALES 
+019000,019014,lutte contre l'illettrisme ,INTERVENTIONS SOCIALES 
+019000,019016,aide à l'insertion des jeunes ,INTERVENTIONS SOCIALES 
+019000,019020,"groupements de chômeurs, aide aux chômeurs",INTERVENTIONS SOCIALES 
+019000,019025,aide aux réfugiés et aux immigrés (hors défense de droits fondamentaux) ,INTERVENTIONS SOCIALES 
+019000,019030,"aide aux victimes de calamités naturelles, de catastrophes naturelles",INTERVENTIONS SOCIALES 
+019000,019032,aide aux victimes de violences conjugales ,INTERVENTIONS SOCIALES 
+019000,019035,aide aux victimes de violences faites aux enfants ,INTERVENTIONS SOCIALES 
+019000,019040,"aide aux personnes en danger, solitude, désespoir, soutien psychologique et moral",INTERVENTIONS SOCIALES 
+019000,019042,lutte contre la violence routière ,INTERVENTIONS SOCIALES 
+019000,019045,lutte contre diverses formes de violence ,INTERVENTIONS SOCIALES 
+019000,019047,foyers socio-éducatifs ,INTERVENTIONS SOCIALES 
+019000,019050,réinsertion des délinquants ,INTERVENTIONS SOCIALES 
+019000,019055,"soutien aux détenus, reclassement des détenus",INTERVENTIONS SOCIALES 
+004000,004010,"médiation, prévention",JUSTICE 
+004000,004020,"contrôle judiciaire, associations de personnels de justice",JUSTICE 
+004000,004025,"accès aux droits dans les tribunaux, assistance juridique",JUSTICE 
+004000,004030,défense des droits des victimes ,JUSTICE 
+004000,004035,"maisons du droit, accès au droit",JUSTICE 
+033000,032510,aide au logement ,
+033000,032520,"associations et comités de locataires, de propriétaires, comités de logement",
+033000,032525,réhabilitation et construction de logements ,
+010000,010005,"collections d'objets, de documents, bibliothèques spécialisées pour la sauvegarde et l'entretien du patrimoine",PRÉSERVATION DU PATRIMOINE 
+010000,010010,"musées, collections historiques",PRÉSERVATION DU PATRIMOINE 
+010000,010015,"associations, sociétés savantes pour des études historiques, histoire du patrimoine",PRÉSERVATION DU PATRIMOINE 
+010000,010017,"sociétés, clubs de généalogie",PRÉSERVATION DU PATRIMOINE 
+010000,010020,"commémorations, entretien de monuments et sites historiques, souvenir militaire",PRÉSERVATION DU PATRIMOINE 
+010000,010022,comités de défense du patrimoine ,PRÉSERVATION DU PATRIMOINE 
+010000,010030,construction de monuments (sauf lieux de culte) ,PRÉSERVATION DU PATRIMOINE 
+016000,016005,recherche sur l'éducation et la formation  ,RECHERCHE 
+016000,016010,recherche sur la culture  ,RECHERCHE 
+016000,016015,recherche sur la vie sociale et politique ,RECHERCHE 
+016000,016025,recherche sur l'environnement et le climat ,RECHERCHE 
+016000,016030,"association de recherches scientifiques, sciences physiques, sciences humaines.",RECHERCHE 
+016000,016050,autres associations de recherche ,RECHERCHE 
+016000,016080,"diffusion de savoirs, sociétés savantes, sociétés académiques",RECHERCHE 
+023000,023001,usagers de services publics ,"REPRÉSENTATION, PROMOTION ET DÉFENSE D'INTÉRÊTS ÉCONOMIQUES"
+023000,023002,mouvements de consommateurs ,"REPRÉSENTATION, PROMOTION ET DÉFENSE D'INTÉRÊTS ÉCONOMIQUES"
+023000,023003,association de défense des contribuables ,"REPRÉSENTATION, PROMOTION ET DÉFENSE D'INTÉRÊTS ÉCONOMIQUES"
+023000,023004,"association d'actionnaires, d'épargnants","REPRÉSENTATION, PROMOTION ET DÉFENSE D'INTÉRÊTS ÉCONOMIQUES"
+023000,023005,groupements de salariés à caractère syndical  ,"REPRÉSENTATION, PROMOTION ET DÉFENSE D'INTÉRÊTS ÉCONOMIQUES"
+023000,023007,groupements professionnels ,"REPRÉSENTATION, PROMOTION ET DÉFENSE D'INTÉRÊTS ÉCONOMIQUES"
+023000,023010,associations de défense d'intérêts des retraités ou des personnes âgées ,"REPRÉSENTATION, PROMOTION ET DÉFENSE D'INTÉRÊTS ÉCONOMIQUES"
+023000,023020,"associations d'exploitants agricoles, élevage, horticulture, aviculture, apiculture, viticulture, viniculture","REPRÉSENTATION, PROMOTION ET DÉFENSE D'INTÉRÊTS ÉCONOMIQUES"
+023000,023022,"associations d'intérêts maritimes, marins","REPRÉSENTATION, PROMOTION ET DÉFENSE D'INTÉRÊTS ÉCONOMIQUES"
+023000,023025,"associations pour la représentation d'artisans, de commerçants","REPRÉSENTATION, PROMOTION ET DÉFENSE D'INTÉRÊTS ÉCONOMIQUES"
+023000,023030,unions patronales ,"REPRÉSENTATION, PROMOTION ET DÉFENSE D'INTÉRÊTS ÉCONOMIQUES"
+023000,023035,association de représentation de professions libérales ,"REPRÉSENTATION, PROMOTION ET DÉFENSE D'INTÉRÊTS ÉCONOMIQUES"
+023000,023040,représentation d'intérêts économiques sectoriels ,"REPRÉSENTATION, PROMOTION ET DÉFENSE D'INTÉRÊTS ÉCONOMIQUES"
+023000,023045,représentation d'intérêts régionaux et locaux ,"REPRÉSENTATION, PROMOTION ET DÉFENSE D'INTÉRÊTS ÉCONOMIQUES"
+017000,017005,"cliniques, centres médicaux, hôpitaux, sanatoriums, établissements de rééducation, maisons de convalescence",SANTÉ 
+017000,017015,"hôpitaux psychiatriques, soins ambulatoires en santé mentale",SANTÉ 
+017000,017020,"dispensaires, soins infirmiers, services paramédicaux, services de garde",SANTÉ 
+017000,017025,services médicaux d'urgence ,SANTÉ 
+017000,017045,centres de réadaptation ,SANTÉ 
+017000,017055,"accompagnement, aide aux malades",SANTÉ 
+017000,017065,"don de sang, don d'organe",SANTÉ 
+017000,017075,gestion de matériel médical ,SANTÉ 
+017000,017085,hygiène diététique ,SANTÉ 
+017000,017095,"accueil, information pour contraception et avortement",SANTÉ 
+017000,017105,médecine du travail ,SANTÉ 
+017000,017115,"dépistage, prévention du sida",SANTÉ 
+017000,017120,"éducation sanitaire, prévention générale",SANTÉ 
+017000,017125,"prévention de maladies, dépistage de maladies (autres que le sida)",SANTÉ 
+017000,017130,"association de personnes malades, ou anciens malades",SANTÉ 
+017000,017135,"homéopathie, médecines douces",SANTÉ 
+017000,017145,"organisation des professions médicales,  organisation des professions paramédicales",SANTÉ 
+017000,017155,organisation de congrès médicaux ,SANTÉ 
+017000,017200,recherche médicale  ,SANTÉ 
+017000,017210,financement de la recherche médicale ,SANTÉ 
+017000,017300,"médecine animale, vétérinaire",SANTÉ 
+037000,036510,amicale de sapeurs pompiers ,
+037000,036520,"sauvetage, secourisme, protection civile",
+037000,036530,"prévention, formation, cours de secourisme",
+037000,036535,sécurité routière ,
+037000,036540,sauvetage en mer ,
+037000,036545,sécurité et sauvetage en montagne ,
+018000,018005,accueil et protection de la petite enfance ,SERVICES ET ÉTABLISSEMENTS MÉDICO-SOCIAUX 
+018000,018010,établissements et services pour adolescents en difficulté ,SERVICES ET ÉTABLISSEMENTS MÉDICO-SOCIAUX 
+018000,018015,"établissements et services pour enfants handicapés, établissements et services pour adultes handicapés, y compris les CAT (centres d'aide par le travail).",SERVICES ET ÉTABLISSEMENTS MÉDICO-SOCIAUX 
+018000,018025,"établissements et services pour adultes en difficulté, CHRS (centres d'hébergement et de réadaptation sociale)",SERVICES ET ÉTABLISSEMENTS MÉDICO-SOCIAUX 
+018000,018030,"prévention et lutte contre l'alcoolisme, le tabagisme, la toxicomanie",SERVICES ET ÉTABLISSEMENTS MÉDICO-SOCIAUX 
+018000,018040,aide aux accidentés du travail ,SERVICES ET ÉTABLISSEMENTS MÉDICO-SOCIAUX 
+018000,018045,aide aux victimes de maladies professionnelles ,SERVICES ET ÉTABLISSEMENTS MÉDICO-SOCIAUX 
+018000,018050,aide sociale aux personnes en situation de handicap ,SERVICES ET ÉTABLISSEMENTS MÉDICO-SOCIAUX 
+021000,021005,"crèches, garderies, haltes garderies","SERVICES FAMILIAUX, SERVICES AUX PERSONNES ÂGÉES"
+021000,021010,aide à domicile ,"SERVICES FAMILIAUX, SERVICES AUX PERSONNES ÂGÉES"
+021000,021015,services aux personnes âgées (téléalarme.) ,"SERVICES FAMILIAUX, SERVICES AUX PERSONNES ÂGÉES"
+021000,021020,"foyers pour personnes âgées, maisons de retraite,  maisons de retraite médicalisées","SERVICES FAMILIAUX, SERVICES AUX PERSONNES ÂGÉES"
+011000,011004,arbitrage ,"SPORTS, ACTIVITÉS DE PLEIN AIR"
+011000,011005,associations multisports locales ,"SPORTS, ACTIVITÉS DE PLEIN AIR"
+011000,011010,associations multisports scolaires ou universitaires ,"SPORTS, ACTIVITÉS DE PLEIN AIR"
+011000,011015,associations multisports d'entreprise ,"SPORTS, ACTIVITÉS DE PLEIN AIR"
+011000,011018,handisport ,"SPORTS, ACTIVITÉS DE PLEIN AIR"
+011000,011020,"athlétisme  (triathlon, pentathlon, footing, jogging)","SPORTS, ACTIVITÉS DE PLEIN AIR"
+011000,011025,"aviron, canoë-kayak (aviron, rafting, canoë-kayak, joutes)","SPORTS, ACTIVITÉS DE PLEIN AIR"
+011000,011030,"badminton  (badminton, squash, pelote basque)","SPORTS, ACTIVITÉS DE PLEIN AIR"
+011000,011035,"boules  (pétanque, boules)","SPORTS, ACTIVITÉS DE PLEIN AIR"
+011000,011040,bowling ,"SPORTS, ACTIVITÉS DE PLEIN AIR"
+011000,011045,"danse sportive (danse sportive, hip hop, claquettes)","SPORTS, ACTIVITÉS DE PLEIN AIR"
+011000,011050,"équitation  (équitation, hippisme, courses camarguaise, landaise)","SPORTS, ACTIVITÉS DE PLEIN AIR"
+011000,011055,"escalade, montagne  (escalade, spéléologie, via ferrata, canyonisme, alpinisme)","SPORTS, ACTIVITÉS DE PLEIN AIR"
+011000,011060,escrime  (escrime) ,"SPORTS, ACTIVITÉS DE PLEIN AIR"
+011000,011065,basket-ball ,"SPORTS, ACTIVITÉS DE PLEIN AIR"
+011000,011070,handball ,"SPORTS, ACTIVITÉS DE PLEIN AIR"
+011000,011075,"football  (football, futsal)","SPORTS, ACTIVITÉS DE PLEIN AIR"
+011000,011080,"rugby  (rugby à 13, à 15)","SPORTS, ACTIVITÉS DE PLEIN AIR"
+011000,011085,"volley ball (volley, beach volley)","SPORTS, ACTIVITÉS DE PLEIN AIR"
+011000,011090,"autres sports collectifs  (baseball, hockey sur gazon, hockey sur glace, football américain)","SPORTS, ACTIVITÉS DE PLEIN AIR"
+011000,011092,"hockey sur glace, sports de glace","SPORTS, ACTIVITÉS DE PLEIN AIR"
+011000,011095,"nautisme, glisse sur eau  (ski nautique, surf, char à voile)","SPORTS, ACTIVITÉS DE PLEIN AIR"
+011000,011100,golf  ,"SPORTS, ACTIVITÉS DE PLEIN AIR"
+011000,011105,"gymnastique  (gymnastique, gymnastique d.entretien, éducation physique, yoga), aérobic","SPORTS, ACTIVITÉS DE PLEIN AIR"
+011000,011110,haltérophilie ,"SPORTS, ACTIVITÉS DE PLEIN AIR"
+011000,011115,"marche sportive  (randonnée pédestre, raid, trekking, course orientation)","SPORTS, ACTIVITÉS DE PLEIN AIR"
+011000,011120,"musculation  (culturisme, musculation)","SPORTS, ACTIVITÉS DE PLEIN AIR"
+011000,011125,"natation - baignade  (natation, plongée)","SPORTS, ACTIVITÉS DE PLEIN AIR"
+011000,011130,roller - skate  ,"SPORTS, ACTIVITÉS DE PLEIN AIR"
+011000,011135,"sports aériens  (avion, planeur, ULM, parachutisme)","SPORTS, ACTIVITÉS DE PLEIN AIR"
+011000,011140,judo  ,"SPORTS, ACTIVITÉS DE PLEIN AIR"
+011000,011145,"sports de combat  (boxe, kick box, boxe thaï, lutte)","SPORTS, ACTIVITÉS DE PLEIN AIR"
+011000,011150,"autres arts martiaux  (karaté, aïkido, taekwondo)","SPORTS, ACTIVITÉS DE PLEIN AIR"
+011000,011155,"sports de neige  (ski alpin, ski de fond, snowboard) sports de montagne","SPORTS, ACTIVITÉS DE PLEIN AIR"
+011000,011160,"sports mécaniques  (sport automobile, moto, trial)","SPORTS, ACTIVITÉS DE PLEIN AIR"
+011000,011165,"tennis  (tennis, longue paume)","SPORTS, ACTIVITÉS DE PLEIN AIR"
+011000,011170,"tennis de table  (tennis de table, ping-pong)","SPORTS, ACTIVITÉS DE PLEIN AIR"
+011000,011175,"tir  (tir à l.arc, tir à balle, ball-trap), javelot","SPORTS, ACTIVITÉS DE PLEIN AIR"
+011000,011180,"cyclisme (cyclisme, vélo, VTT, y compris course d.orientation à vélo, cyclotourisme)","SPORTS, ACTIVITÉS DE PLEIN AIR"
+011000,011185,"voile  (voile, dériveur, planche à voile)","SPORTS, ACTIVITÉS DE PLEIN AIR"
+011000,011190,"gestion d'équipements sportifs, organisation de rencontres sportives, organisation de championnats, clubs de supporters","SPORTS, ACTIVITÉS DE PLEIN AIR"
+011000,011192,"associations pour la promotion du sport, médailles, mérite sportif","SPORTS, ACTIVITÉS DE PLEIN AIR"
+011000,011400,activités de plein air (dont saut à l'élastique) ,"SPORTS, ACTIVITÉS DE PLEIN AIR"
+034000,034210,"auberges de jeunesse, organisation de voyages,",TOURISME 
+034000,034220,maisons et villages de vacances ,TOURISME 
+034000,034230,"gîtes ruraux, camping, caravaning, naturisme",TOURISME 
+034000,034240,"syndicats d'initiative, offices de tourisme, salons du tourisme",TOURISME 
